@@ -4,7 +4,7 @@
     "microfrontends-marketing": {
       "development": {
         "local": 3000,
-        "fallback": "microfrontends-marketing.labs.vercel.dev"
+        "fallback": "test-micro-fe-multizone-marketing.vercel.app"
       }
     },
     "microfrontends-docs": {
